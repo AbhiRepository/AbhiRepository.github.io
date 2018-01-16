@@ -11,6 +11,8 @@ description: "This is a simple and minimalist script to scrape notices from noti
 category: project
 author: Abhishek
 externalLink: false
+parmalink: hibiscut
+
 ---
 
 This is a simple webscript that scrape notices from the notice board of IIIT bhubaneswar and send them to all the currently enrolled student to there mobile vis text msg
