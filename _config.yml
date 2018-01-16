@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Abhishek Patel  
+bio: Hello people! welcome to my life in PYjamas 
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=1nEuSeFXpKjCH_X4wo8zf9W7cmJE15zp_
 
-url: https://koppl.in/indigo
+url: https://abhirepository.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -35,41 +35,35 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+stackoverflow: 7044681/mystackoverflow
+quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: abhishek.jbp121@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Abhishek Patel
+        bio: Long lost boy in Py-world
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: abhishel
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
