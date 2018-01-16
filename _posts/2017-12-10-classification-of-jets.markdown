@@ -3,7 +3,7 @@ title: "Classification of astrophysical jets"
 layout: post
 date: 2017-12-10 22:10
 tag: Keras
-image: https://i.imgur.com/xIWXNVz.png
+image: https://i.imgur.com/Teplbpz.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
