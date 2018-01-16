@@ -8,7 +8,7 @@ layout: page
 Hey there! 
 <br>
 <br>
-	My name is **Abhishek Patel**, I am currently second year undergrad at International Institute of Information Technology Bhubaneswar under Computer Science department. Previously I was research intern at Indian Institute of Technology, Indore.
+	My name is <bold>Abhishek Patel</bold>, I am currently second year undergrad at International Institute of Information Technology Bhubaneswar under Computer Science department. Previously I was research intern at Indian Institute of Technology, Indore.
 	
 </p>
 
