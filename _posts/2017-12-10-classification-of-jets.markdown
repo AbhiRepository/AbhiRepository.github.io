@@ -22,10 +22,11 @@ Simulated images are made using matplotlib with random parameters and specific "
 ---
 Tech stack 
 - Python
-- Selenium
-- BeautifulSoup
-- urllib
+- Keras
+- Matplotlib
+- Scipy
+- Scikit learn
 
 ---
 
-[Check it out](https://github.com/AbhiRepository/hibicut) 
+[Check it out](https://github.com/AbhiRepository/classification-of-astrophysical-jets) 
