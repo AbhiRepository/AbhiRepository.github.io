@@ -2,7 +2,7 @@
 title: ":ramen: Hibiscut, notice scrapper"
 layout: post
 date: 2016-09-23 22:10
-tag: python selenium
+tag: python, selenium
 image: https://i.imgur.com/4ToptzT.png
 headerImage: true
 projects: true
