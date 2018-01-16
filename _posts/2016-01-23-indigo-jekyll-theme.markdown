@@ -20,7 +20,8 @@ Tech stack
 - Python
 - Selenium
 - BeautifulSoup
-- way2sms api
+- urllib
+
 ---
 
 [Check it out](https://github.com/AbhiRepository/hibicut) 
