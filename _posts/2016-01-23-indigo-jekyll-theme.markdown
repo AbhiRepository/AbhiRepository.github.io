@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Hibiscut, notice scrapper"
+title: "Hibiscut, notice scrapper"
 layout: post
 date: 2016-09-23 22:10
 tag: selenium
