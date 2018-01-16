@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image](https://i.imgur.com/Xtk7ryo.jpg)
+![Profile Image](https://i.imgur.com/IAIrvAg.jpg)
 
 <p>
 Hey there! 
