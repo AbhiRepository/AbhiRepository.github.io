@@ -34,18 +34,18 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+# facebook: myfacebook
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
+linkedin: in/abhishek-patel-bb6260125/
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: AbhiRepository
 # lastfm: mylastfm
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
+stackoverflow: users/9154125/abhishek-patel
+quora: profile/Abhishek-Patel-346
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
