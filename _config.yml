@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/open?id=1nEuSeFXpKjCH_X4wo8zf9W7cmJE15zp_
+resume-url: https://drive.google.com/open?id=1swUFfszPc8BcheeWYfBEFOSlSXxlU1Jw
 
 url: https://abhirepository.github.io/
 # your url: http://USERNAME.github.io
@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
