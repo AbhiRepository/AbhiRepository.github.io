@@ -1,0 +1,18 @@
+---
+title: "Internship @National University of Singapore"
+layout: post
+date: 2018-8-31 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- intern
+- NUS
+- Singapore
+star: true
+category: blog
+author: abhishek
+description: Intership at NUS-
+---
+
+Yes
+
